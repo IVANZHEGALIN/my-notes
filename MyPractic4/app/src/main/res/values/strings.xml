@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">MyPractic4</string>
+    <string name="sing_up" translatable="false">Зарегестрироваться</string>
+    <string name="sing_in" translatable="false">Войти</string>
+    <string name="dowload" translatable="false">Загрузить фотографию</string>
+    <string name="exit" translatable="false">Готово</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="name_1" translatable="false">Имя</string>
+    <string name="name_2" translatable="false">Фамилия</string>
+    <string name="name_3" translatable="false">Отчество</string>
+
+</resources>
